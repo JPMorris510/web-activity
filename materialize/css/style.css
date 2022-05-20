@@ -1,0 +1,50 @@
+span {
+    width: auto;
+}
+
+h1 {
+    font-family: sans-serif
+}
+
+p {
+    font-family: serif;
+}
+
+img {
+    overflow: hidden
+}
+
+#nav-header {
+    text-align: center;
+}
+
+#text-zone {
+    background-color: #3295a8;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 1%; 
+    padding-bottom: 5%;
+    
+}
+
+.header-img {
+    align-content: center;
+    height: 650px;
+    width: 10%;
+    overflow: hidden;
+}
+
+.img-tray {
+    height: 600px;
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    overflow: hidden;
+}
+
+.pg-title {
+    text-align: center;
+}
